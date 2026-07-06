@@ -1,0 +1,7 @@
+@"
+*.exe
+.vscode/
+input.txt
+output.txt
+temp.exe
+"@ | Set-Content .gitignore
